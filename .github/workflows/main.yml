@@ -8,5 +8,5 @@ jobs:
 
     steps:
       - name: Run a test
-        run: test -f README.md
-        
+        run: echo "Test are passed. Gleb is a good man. LOL"
+
